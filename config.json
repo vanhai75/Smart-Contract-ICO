@@ -1,0 +1,11 @@
+{
+  "dev": {},
+  "bsctest": {},
+  "main": {},
+  "bscTestnet": {
+    "Floppy": "0x708D108E60331FCc173864c8Caf7fd9A389492fA",
+    "Vault": "0x8ac50C95Df5f9CE8d74dCc0919980c7141C8768E",
+    "USDT": "0x15c3B209C703bda7b03BD1cf70f5f256cE82880f",
+    "ico": "0x36F78bcC5dC615ea1eC58206f12a73A6d22987b5"
+  }
+}
